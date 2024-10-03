@@ -14,7 +14,7 @@ target/
 .sts4-cache
 
 ## ignorar el archivo properties##
-C:\Users\user\Desktop\movies\src\main\resources\application.properties
+application.properties
 
 ### IntelliJ IDEA ###
 .idea
